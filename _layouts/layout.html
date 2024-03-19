@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <!-- prettier-ignore -->
+    {%- capture title -%}{% if page.title %}{{ page.title | strip }} – {% endif %}Gleam{%- endcapture -%}
+    <!-- prettier-ignore -->
+    {%- capture default_description -%}The Gleam programming language{%- endcapture -%}
+    <!-- prettier-ignore -->
+    {%- capture description -%}{% if page.description %}{{ page.description | strip }}{% else %}{{ default_description }}{% endif %}{%- endcapture -%}
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="shortcut icon" href="{{ site.baseurl }}/images/lucy/lucy.svg" />
+    {% feed_meta %}
+
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ description | strip_newlines }}" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="{{ site.url }}/images/social-image.png"
+    />
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="{{ site.url }}" />
+    <meta property="twitter:title" content="{{ title }}" />
+    <meta property="twitter:description" content="{{ description }}" />
+    <meta
+      property="twitter:image"
+      content="{{ site.url }}/images/social-image.png"
+    />
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/styles/main.css" />
+
+    {% for preload in page.preload %}
+    <link rel="preload" href="{{ preload.href }}" as="{{ preload.as }}" />
+    {% endfor %}
+  </head>
+
+  <body>
+    {{ content }}
+
+    <footer class="footer">
+      <div class="content">
+        <div class="first">
+          <a class="logo" href="/">
+            <img
+              src="{{ site.baseurl }}/images/lucy/lucy.svg"
+              alt="Lucy the star, Gleam's mascot"
+            />
+            Gleam
+          </a>
+        </div>
+        <ul class="middle">
+          <li><a href="/news">News</a></li>
+          <li><a href="https://discord.gg/Fm8Pwmy">Discord</a></li>
+        </ul>
+        <ul class="last">
+          <li>&copy; {{ site.time | date: '%Y' }} Safe Streets Halton</li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+
+  <script src="/javascript/main.js?v={{ site.time | date: '%Y%m%d' }}"></script>
+</html>

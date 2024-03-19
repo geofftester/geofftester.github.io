@@ -1,0 +1,37 @@
+markdown: kramdown
+
+permalink: "/news/:title/"
+
+baseurl: "/safesteets"
+url: "http://yeoff.ca"
+
+title: Safe Streets Halton
+description: Safe Streets Halton is a group that aims to eliminate traffic deaths in the Halton Region
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+
+whitelist:
+  - jekyll-redirect-from
+  - jekyll-feed
+
+exclude:
+  - README
+  - Makefile
+  - book-src
+
+include:
+  - .well-known
+
+defaults:
+  - scope:
+      path: "" # all files
+      type: posts # limit to posts
+    values:
+      layout: post
+
+# Syntax highlighting is handled by highlight.js
+highlighter: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
