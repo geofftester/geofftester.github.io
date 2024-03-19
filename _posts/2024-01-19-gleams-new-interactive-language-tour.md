@@ -1,9 +1,10 @@
 ---
-author: Louis Pilfold
 title: Gleam's New Interactive Language Tour
-subtitle: Learn Gleam in your browser!
+date: 2024-01-19 00:00:00 Z
 tags:
-  - Release
+- Release
+author: Louis Pilfold
+subtitle: Learn Gleam in your browser!
 ---
 
 Gleam is a type safe and scalable language for the Erlang virtual machine and

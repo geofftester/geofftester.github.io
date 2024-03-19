@@ -1,6 +1,6 @@
 ---
 title: Membership
-subtitle: Become a member today and join us 👏
+subtitle: "Become a member today and join us \U0001F44F"
 layout: page
 ---
 

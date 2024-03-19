@@ -1,6 +1,6 @@
 ---
 title: Volunteer
-subtitle: Volunteers are essential to our mission 🤝
+subtitle: "Volunteers are essential to our mission \U0001F91D"
 layout: page
 ---
 

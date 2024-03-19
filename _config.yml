@@ -1,36 +1,37 @@
-markdown: kramdown
-
-permalink: "/news/:title/"
-
-baseurl: ""
-url: "https://geofftester.github.io"
-
+---
 title: Safe Streets Halton
-description: Safe Streets Halton is a group that aims to eliminate traffic deaths in the Halton Region
-plugins:
-  - jekyll-redirect-from
-  - jekyll-feed
-
-whitelist:
-  - jekyll-redirect-from
-  - jekyll-feed
-
-exclude:
-  - README
-  - Makefile
-  - book-src
-
-include:
-  - .well-known
-
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  - scope:
-      path: "" # all files
-      type: posts # limit to posts
-    values:
-      layout: post
-
-# Syntax highlighting is handled by highlight.js
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+markdown: kramdown
+permalink: "/news/:title/"
+baseurl: ''
+url: https://geofftester.github.io
+description: Safe Streets Halton is a group that aims to eliminate traffic deaths
+  in the Halton Region
+plugins:
+- jekyll-redirect-from
+- jekyll-feed
+whitelist:
+- jekyll-redirect-from
+- jekyll-feed
+exclude:
+- README
+- Makefile
+- book-src
+include:
+- ".well-known"
 highlighter: kramdown
 kramdown:
   syntax_highlighter_opts:

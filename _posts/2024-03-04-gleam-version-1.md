@@ -1,9 +1,10 @@
 ---
-author: Louis Pilfold
 title: Gleam version 1
-subtitle: It's finally here! 🎉
+date: 2024-03-04 00:00:00 Z
 tags:
-  - Release
+- Release
+author: Louis Pilfold
+subtitle: "It's finally here! \U0001F389"
 ---
 
 Today Gleam v1.0.0 has been released! This is the first "stable" release of the

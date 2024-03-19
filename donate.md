@@ -1,6 +1,6 @@
 ---
 title: Donate
-subtitle: Thank you for donating to Safe Streets Halton 💚
+subtitle: "Thank you for donating to Safe Streets Halton \U0001F49A"
 layout: page
 ---
 

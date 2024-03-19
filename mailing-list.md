@@ -1,8 +1,9 @@
 ---
-layout: layout
 title: Mailing list
+layout: layout
 description: The Gleam at-most-monthly mailing list
 ---
+
 {% capture header_content %}
 <div class="mailing-list-page">
   <h3>Wanna keep in touch?</h3>
