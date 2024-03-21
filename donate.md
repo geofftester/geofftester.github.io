@@ -6,17 +6,15 @@ layout: page
 
 At Safe Streets Halton, everything we do is in moving towards ending traffic-related fatalities and serious injuries. Use the form below to make a donation and support our education and advocacy work.
 
-## Your donation goes towards:
+## Your donation goes towards: :)
 
-awdawdwad
+- Operational activities
 
-* Operational activities
+- In-person events such as booths at festivals
 
-* In-person events such as booths at festivals
+- support volunteer activities
 
-* support volunteer activities
-
-* and more!
+- and more!
 
 ## Thank you for helping us create a healthier and safer Halton Region
 
