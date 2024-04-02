@@ -1,15 +1,11 @@
-# The Gleam website
+# The Safe Streets Halton website
 
-https://gleam.run
+https://www.safestreetshalton.ca/
 
+## Local Development
 
-## Run the website locally
+The easiest way is to use Docker.
 
-Install `github-pages` (requires Ruby)
-
-```sh
-gem install github-pages
-gem install webrick # For Ruby3.x
+```shell
+docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve
 ```
-
-and run `make serve` in root directory.
