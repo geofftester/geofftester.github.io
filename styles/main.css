@@ -199,7 +199,7 @@ main.content {
 .logo img {
   transform: rotate(-180deg);
   display: inline-block;
-  height: 1.3em;
+  height: 3em;
   margin-right: 0.25em;
 }
 

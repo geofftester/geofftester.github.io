@@ -1,0 +1,15 @@
+---
+title: Resources
+layout: page
+subtitle: We succeed when you succeed, so use our resources however you see fit 📃
+---
+
+<ul class="news-posts">
+  {% for r in site.resources %}
+  <li>
+    <a href="{{ r.url }}"><h2>{{ r.title }}</h2></a>
+    {% if r.subtitle %}
+    <p>{{ r.subtitle }}</p>
+    {% endif %} {% endfor %}
+  </li>
+</ul>
