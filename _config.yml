@@ -2,40 +2,39 @@
 title: Safe Streets Halton
 timezone: UTC
 collections:
-  resources:
-    title: Resources
-    output: true
   posts:
     title: Posts
+    output: true
+  resources:
+    title: Resources
     output: true
   uploads:
     title: Uploads
     output: true
 defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 markdown: kramdown
 permalink: "/news/:title/"
-baseurl: ""
+baseurl: ''
 url: https://geofftester.github.io
-description:
-  Safe Streets Halton is a group that aims to eliminate traffic deaths
+description: Safe Streets Halton is a group that aims to eliminate traffic deaths
   in the Halton Region
 plugins:
-  - jekyll-redirect-from
-  - jekyll-feed
+- jekyll-redirect-from
+- jekyll-feed
 whitelist:
-  - jekyll-redirect-from
-  - jekyll-feed
+- jekyll-redirect-from
+- jekyll-feed
 exclude:
-  - README
-  - Makefile
-  - book-src
+- README
+- Makefile
+- book-src
 include:
-  - ".well-known"
+- ".well-known"
 highlighter: kramdown
 kramdown:
   syntax_highlighter_opts:
