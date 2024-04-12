@@ -4,6 +4,8 @@ date: 2024-04-12 01:42:00 Z
 tags:
 - Oakville
 author: Safe Streets Team
+subtitle: Oakville council made strives towards creating a more accessible transportation
+  system
 ---
 
 On Monday, February 27th, Oakville council made strives towards creating a more accessible transportation system following a report from Safe Streets Halton volunteers.
