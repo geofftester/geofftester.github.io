@@ -47,7 +47,7 @@
   --color-code-green: var(--color-faff-green);
   --color-code-red: #ff6262;
   --color-code-orange: #ffd596;
-  --color-code-light-pink: #ffddfa;
+  --color-code-light-green: #ffddfa;
 
   --opacity-mid: 0.65;
 
@@ -635,14 +635,14 @@ main.content {
 
 .hljs-operator,
 .code-operator {
-  color: var(--color-code-pink);
+  color: var(--color-code-green);
 }
 
 .hljs-attribute,
 .hljs-title,
 .code-type,
 .code-module {
-  color: var(--color-code-light-pink);
+  color: var(--color-code-light-green);
 }
 
 .hljs-symbol,
