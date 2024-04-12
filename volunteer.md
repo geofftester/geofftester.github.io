@@ -4,16 +4,35 @@ subtitle: "Volunteers are essential to our mission \U0001F91D"
 layout: page
 ---
 
-The easiest way to join is through our [Discord](https://github.com/gleam-lang/gleam/blob/main/CODE_OF_CONDUCT.md) server. Learn more from our Safe Streets community members!
+Become a Volunteer
 
-## Volunteer
+**Our volunteers are essential to our success.**
 
-Volunteers make a massive impact on our mission. Our voices are stronger in numbers. See more.
+**Example Volunteer Opportunities:**
 
-## Become A Member
+* Speaking to the media
 
-Members are able to vote on the direction and strategies of our organization.
+* Website development
 
-## Donate
+* Research and Writing
 
-Donating to our organization allows us to expand our operations.
+* Event Organization
+
+**Why become a volunteer?**
+
+* Get resources & help for your street safety goals
+
+
+* Show that people care about street safety
+
+* Our collective voices are stronger than one
+
+* Have a positive impact on your community
+
+* Help create a region that’s healthy and safe for everyone
+
+**When and how do we meet?**
+
+We have a virtual meeting on the first Tuesday of every month via Discord, and meeting as needed otherwise (virtual or in person).
+
+[Join our community](https://discord.gg/5Vnb7ZUtQQ)
