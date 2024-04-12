@@ -4,6 +4,8 @@ date: 2024-04-12 01:38:00 Z
 tags:
 - Ontario
 author: Safe Streets Team
+subtitle: Please see our submitted comments on the provincial government’s Bill 23,
+  More Homes Built Faster Act
 ---
 
 Please see below for our submitted comments on the provincial government’s Bill 23, More Homes Built Faster Act.
