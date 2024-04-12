@@ -1,10 +1,10 @@
 ---
-title: Gleam version 1
+title: Provincial Party Platform Rankings
 date: 2024-03-04 00:00:00 Z
 tags:
 - Release
-author: Louis Pilfold
-subtitle: "It's finally here! \U0001F389"
+author: Safe Streets Team
+subtitle: Learn how Ontario parties compare on key issues
 ---
 
 # Provincial Party Platform Rankings
