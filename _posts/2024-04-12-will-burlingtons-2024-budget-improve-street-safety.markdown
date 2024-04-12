@@ -3,6 +3,8 @@ title: Will Burlington’s 2024 Budget Improve Street Safety?
 date: 2024-04-12 01:43:00 Z
 tags:
 - Burlington
+author: Safe Streets Team
+layout: post
 ---
 
 ### Burlington’s council has shown where their priorities lie regarding the safety of our residents via the 2024 Budget process. Despite the advocacy of groups like Safe Streets Halton, and the support of councillors Nisan and Stolte, it was a battle to get safety investments added to the budget. In the end, there were victories for road safety, but as was seen, there are still challenges that lie ahead.
