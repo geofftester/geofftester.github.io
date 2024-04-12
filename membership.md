@@ -4,21 +4,27 @@ subtitle: "Become a member today and join us \U0001F44F"
 layout: page
 ---
 
-The easiest way to join is through our [Discord][1] server. Learn more from our Safe Streets community members!
+**Members are able to vote on the direction and strategies of the organization.**
 
-## Volunteer
+Eligibility:
 
-Volunteers make a massive impact on our mission. Our voices are stronger in numbers. See more.
+Any person may become a member of Safe Streets Halton in accordance with our [Membership Policy](https://drive.google.com/file/d/1agoIpXXdWxVJmV4ITwOxEztfa27s1lcQ/view?usp=drive_link).
 
-## Become A Member
+**Only individuals may become members.**
 
-Members are able to vote on the direction and strategies of our organization.
+What do we do with your information?
 
-## Donate
+We keep a secure record of your information and use it in accordance with the [Ontario Not-for-Profit Corporations Act](https://www.ontario.ca/laws/statute/10n15#BK52).
 
-Donating to our organization allows us to expand our operations.
+What does my membership fee go to?
 
-[1]: https://github.com/gleam-lang/gleam/blob/main/CODE_OF_CONDUCT.md
-[2]: https://discord.gg/Fm8Pwmy
-[3]: https://github.com/gleam-lang/gleam/discussions
-[4]: https://twitter.com/gleamlang
+* operational activities
+
+* in-person events such as booths at festivals
+
+* support volunteer activities
+
+* and more
+
+**Having Trouble with the form below?** \
+Go here: [Membership Application Website](https://www.zeffy.com/en-CA/ticketing/e67cee29-2523-47bc-a7b5-9f31e9f4dcbc)
