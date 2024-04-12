@@ -470,7 +470,6 @@ main.content {
   --lucy-x: min(-80px, calc(100vw - var(--width-content) - 400px));
 
   background:
-    url("/images/lucy/lucymail.svg") var(--lucy-x) 120% / 350px auto no-repeat,
     linear-gradient(180deg, var(--color-faff-green) 0%, var(--color-white) 250%);
   color: var(--color-blacker);
   text-align: center;

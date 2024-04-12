@@ -33,10 +33,6 @@
     />
 
     <link rel="stylesheet" href="{{ site.baseurl }}/styles/main.css" />
-
-    {% for preload in page.preload %}
-    <link rel="preload" href="{{ preload.href }}" as="{{ preload.as }}" />
-    {% endfor %}
   </head>
 
   <body>
