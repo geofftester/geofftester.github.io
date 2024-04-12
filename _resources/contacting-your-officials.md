@@ -2,6 +2,7 @@
 title: How to Have Your Voice Heard
 subtitle: Tips and information on who to talk to and how
 ---
+
 # Talking to Council, Information and Tips
 
 Safe Streets Halton encourages you to come forward and have your voice heard between elections. Some ways to do this are:

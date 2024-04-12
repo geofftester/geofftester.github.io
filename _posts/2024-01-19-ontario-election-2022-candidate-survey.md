@@ -2,10 +2,11 @@
 title: Candidate Survey Results
 date: 2024-01-19 00:00:00 Z
 tags:
-  - Release
+- Release
 author: Safe Streets Team
 subtitle: Learn how parties compare on key issues
 ---
+
 # Candidate Survey Results
 
 At the start of the election period, we sent questions to MPP candidates throughout Halton Region. To help you make an informed decision, we share their complete responses. We have also indicated what transportation-related topics are mentioned in the responses.

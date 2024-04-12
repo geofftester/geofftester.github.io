@@ -6,6 +6,7 @@ tags:
 author: Louis Pilfold
 subtitle: "It's finally here! \U0001F389"
 ---
+
 # Provincial Party Platform Rankings
 
 ![graphic showing ranking of each political platform for each section (walking and land use, transit, cycling, roads and road safety)](https://images.squarespace-cdn.com/content/v1/624d1887e70f262c57482b3a/549fde11-fb33-4fb7-a736-53f0065634f4/Ontario2022PlatformReview.png)

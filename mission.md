@@ -1,6 +1,6 @@
 ---
 title: Our Mission
-subtitle: "Health and safety above all else"
+subtitle: Health and safety above all else
 layout: page
 ---
 
