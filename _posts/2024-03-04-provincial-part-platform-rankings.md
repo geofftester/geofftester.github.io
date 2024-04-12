@@ -2,7 +2,7 @@
 title: Provincial Party Platform Rankings
 date: 2024-03-04 00:00:00 Z
 tags:
-- Release
+- Ontario Election 2022
 author: Safe Streets Team
 subtitle: Learn how Ontario parties compare on key issues
 ---
