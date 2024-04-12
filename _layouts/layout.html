@@ -2,14 +2,14 @@
 <html lang="en-GB">
   <head>
     <!-- prettier-ignore -->
-    {%- capture title -%}{% if page.title %}{{ page.title | strip }} – {% endif %}Gleam{%- endcapture -%}
+    {%- capture title -%}{% if page.title %}{{ page.title | strip }} – {% endif %}Safe Streets Halton{%- endcapture -%}
     <!-- prettier-ignore -->
-    {%- capture default_description -%}The Gleam programming language{%- endcapture -%}
+    {%- capture default_description -%}Making streets safer in Halton for all{%- endcapture -%}
     <!-- prettier-ignore -->
     {%- capture description -%}{% if page.description %}{{ page.description | strip }}{% else %}{{ default_description }}{% endif %}{%- endcapture -%}
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="shortcut icon" href="{{ site.baseurl }}/images/lucy/lucy.svg" />
+    <link rel="shortcut icon" href="{{ site.baseurl }}/images/square-logo.jpg" />
     {% feed_meta %}
 
     <title>{{ title }}</title>

@@ -17,7 +17,3 @@ At Safe Streets Halton, everything we do is in moving towards ending traffic-rel
 - and more!
 
 ## Thank you for helping us create a healthier and safer Halton Region
-
-Difficulty with the form below? [Click here](https://github.com/gleam-lang/gleam/blob/main/CODE_OF_CONDUCT.md)
-
-[Looking to become a member instead](https://discord.gg/Fm8Pwmy)
