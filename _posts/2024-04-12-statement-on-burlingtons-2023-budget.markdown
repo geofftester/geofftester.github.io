@@ -3,6 +3,7 @@ title: Statement on Burlington’s 2023 Budget
 date: 2024-04-12 01:41:00 Z
 tags:
 - Burlington
+author: Safe Streets Team
 ---
 
 On Tuesday, February 14th, Burlington City Council took more steps towards improving the accessibility and attractiveness of our transportation systems in three areas: cycling & walking, transit, and improved use of public space.
