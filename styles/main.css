@@ -197,7 +197,6 @@ main.content {
 }
 
 .logo img {
-  transform: rotate(-180deg);
   display: inline-block;
   height: 3em;
   margin-right: 0.25em;
@@ -212,7 +211,7 @@ main.content {
 }
 
 .hero-lucy:hover {
-  content: url("/images/lucy/lucyhappy.svg");
+  content: url("/images/square-logo.jpg");
   transform: rotate(13deg);
 }
 
@@ -678,13 +677,6 @@ main.content {
   padding-bottom: var(--gap-4);
 }
 
-.page pre {
-  overflow-y: auto;
-  margin: var(--gap-3) 0 var(--gap-4) 0;
-  padding: var(--gap-2) var(--gap-2);
-  background-color: var(--color-black);
-}
-
 .page pre,
 .page .shadow {
   box-shadow: var(--gap-1) var(--gap-1) 0 0 var(--color-blacker);
@@ -709,6 +701,11 @@ main.content {
 }
 
 .news-posts h2 {
+  margin: 0;
+}
+
+.home-img {
+  width: 100%;
   margin: 0;
 }
 

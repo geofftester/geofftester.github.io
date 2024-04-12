@@ -1,8 +1,8 @@
 ---
 layout: layout
 preload:
-- href: "/images/lucy/lucyhappy.svg"
-  as: image
+  - href: "/images/lucy/lucyhappy.svg"
+    as: image
 ---
 
 {% capture header_content %}
@@ -11,21 +11,10 @@ preload:
   <b>eliminate traffic deaths</b> in the <b>Halton Region</b>
 </div>
 <a class="button" href="/get-involved">Get Involved</a>
-{% endcapture %} {% include page-header.html image="/images/lucy/lucy.svg"
+{% endcapture %} {% include page-header.html image="/images/square-logo.jpg"
 alt="Lucy the star, Gleam's mascot" content=header_content %}
 
 <main role="main">
-  <section class="content home-pair intro">
-    <div>
-      <p>
-        We believe that every journey should end safely, and every street should
-        be a place where people can move freely without fear. Join us in our
-        campaign for safer roads, one step at a time.
-      </p>
-    </div>
-    <pre></pre>
-  </section>
-
   <section class="content home-pair">
     <div>
       <h2>In 2020, there were over 6000 car crashes in Halton</h2>
@@ -39,7 +28,9 @@ alt="Lucy the star, Gleam's mascot" content=header_content %}
         however, don’t make it safe to do so.
       </p>
     </div>
-    <pre></pre>
+    <pre>
+      <img class="home-img" src="/images/traffic.jpg" alt="">
+    </pre>
   </section>
 
   <section class="content home-pair">
@@ -57,7 +48,6 @@ alt="Lucy the star, Gleam's mascot" content=header_content %}
         away but are taken by car.
       </p>
     </div>
-    <pre></pre>
   </section>
 
   <section class="content home-pair">
@@ -70,7 +60,9 @@ alt="Lucy the star, Gleam's mascot" content=header_content %}
         more options for getting around for work, education, and pleasure.
       </p>
     </div>
-    <pre></pre>
+    <pre>
+      <img class="home-img" src="/images/halton-map.png" alt="">
+    </pre>
   </section>
 
   <section class="content home-pair">
@@ -84,7 +76,6 @@ alt="Lucy the star, Gleam's mascot" content=header_content %}
       </p>
       <p>That is why we, Safe Streets Halton, are here.</p>
     </div>
-    <pre></pre>
   </section>
 
   <section class="home-still-here">
