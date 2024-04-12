@@ -1,6 +1,6 @@
 ---
-title: donate
-subtitle: "thank you for donating to safe streets halton \x01f49a"
+title: Donate
+subtitle: "Thank you for donating to Safe Streets Halton \U0001F49A"
 layout: page
 ---
 
