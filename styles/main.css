@@ -293,6 +293,11 @@ main.content {
   margin-top: var(--gap-2);
 }
 
+.home-img {
+  width: 100%;
+  margin: 0px;
+}
+
 .home-pair {
   padding-top: var(--gap-4);
   padding-bottom: var(--gap-4);
@@ -319,6 +324,19 @@ main.content {
   min-width: 250px;
   width: calc(var(--width-content) * 0.5);
   flex: 1;
+}
+
+/* Center images and limit their width on mobile */
+.home-pair .home-img {
+  display: block;
+  margin: 0 auto; /* Center the image */
+  max-width: 100%; /* Limit image width to its container */
+}
+
+/* Ensure images don't exceed their container width */
+.home-pair > div {
+  width: 100%; /* Ensure the content div takes up full width */
+  padding: var(--gap-2);
 }
 
 .home-pair h2 {
@@ -469,8 +487,11 @@ main.content {
 .home-still-here {
   --lucy-x: min(-80px, calc(100vw - var(--width-content) - 400px));
 
-  background:
-    linear-gradient(180deg, var(--color-faff-green) 0%, var(--color-white) 250%);
+  background: linear-gradient(
+    180deg,
+    var(--color-faff-green) 0%,
+    var(--color-white) 250%
+  );
   color: var(--color-blacker);
   text-align: center;
 }
@@ -619,59 +640,6 @@ main.content {
   visibility: hidden;
 }
 
-.hljs-keyword,
-.code-keyword {
-  color: var(--color-code-orange);
-}
-
-.code-success {
-  color: var(--color-code-green);
-}
-
-.code-error {
-  color: var(--color-code-red);
-}
-
-.hljs-operator,
-.code-operator {
-  color: var(--color-code-green);
-}
-
-.hljs-attribute,
-.hljs-title,
-.code-type,
-.code-module {
-  color: var(--color-code-light-green);
-}
-
-.hljs-symbol,
-.hljs-string,
-.code-string {
-  color: var(--color-code-green);
-}
-
-.hljs-number,
-.code-number {
-  color: var(--color-code-yellow);
-}
-
-.code-fn {
-  color: var(--color-code-blue);
-}
-
-.hljs-comment,
-.code-comment {
-  color: var(--color-code-grey);
-}
-
-.code-prompt {
-  color: var(--color-code-dark-grey);
-}
-
-.hljs {
-  white-space: pre-wrap;
-}
-
 .page.content {
   padding-bottom: var(--gap-4);
 }
@@ -700,11 +668,6 @@ main.content {
 }
 
 .news-posts h2 {
-  margin: 0;
-}
-
-.home-img {
-  width: 100%;
   margin: 0;
 }
 
