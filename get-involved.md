@@ -8,7 +8,7 @@ The easiest way to join is through our Discord server. Learn more from our Safe 
 
 ## Volunteer
 
-Volunteers make a massive impact on our mission. Our voices are stronger in numbers. See more.
+Volunteers make a massive impact on our mission. Our voices are stronger in numbers. 
 
 ## Become A Member
 
