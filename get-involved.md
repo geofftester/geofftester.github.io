@@ -2,7 +2,7 @@
 title: Getting Involved
 subtitle: There are lots of ways to get involved!
 layout: page
-redirect_from: /join-us
+redirect_from: "/join-us"
 ---
 
 The easiest way to join is through our Discord server. Learn more from our Safe Streets community members!
