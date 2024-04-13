@@ -2,7 +2,7 @@
 title: Donate
 subtitle: "Thank you for donating to Safe Streets Halton \U0001F49A"
 layout: page
-redirect_from: /get-involved/donate
+redirect_from: "/get-involved/donate"
 ---
 
 At Safe Streets Halton, everything we do is in moving towards ending traffic-related fatalities and serious injuries. Use the form below to make a donation and support our education and advocacy work.
